@@ -1,0 +1,383 @@
+---
+---
+$body-background: #fff;
+$body-foreground: #252525;
+$body-foreground-alt: #3c3c3c;
+$body-complementary: #cc3232;
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 100%;
+}
+
+body.simple {
+    background: rgba(12, 14, 34, 1.0);
+
+    h1 {
+      color: #fff;
+      font-family: 'Roboto Mono', sans-serif;
+    }
+
+    header {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  background: $body-background;
+  color: $body-foreground;
+  font-size: 1.1rem;
+}
+
+a {
+  color: $body-complementary;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3, h4 {
+  margin-bottom: 0.5rem;
+  color: $body-foreground-alt;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.2rem;
+}
+
+h3 {
+  font-size: 0.9rem;
+}
+
+h4 {
+  font-size: 0.9rem;
+}
+
+p {
+  margin-bottom: 0.8rem;
+}
+
+ul, ol {
+  margin: 1.5rem 1rem;
+}
+
+ul {
+  list-style-position: outside;
+}
+
+li {
+  margin: 2px 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid $body-complementary;
+  margin: 1.5rem 0 1.5rem 1em;
+  padding-left: 1rem;
+  color: $body-foreground-alt;
+}
+
+pre {
+  font-family: 'Roboto Mono', monospace;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+  display: block;
+  border-radius: 4px;
+  color: $body-complementary;
+  font-size: 0.9rem;
+}
+
+hr {
+  width: 60%;
+  margin: 1.5rem auto;
+  border: 0;
+  border-bottom: 0.1rem dashed #ccc;
+}
+
+body > header {
+  width: 100%;
+  margin: 2rem 0;
+  text-align: center;
+
+  h1 {
+    font-size: 1.1rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: $body-foreground;
+  }
+
+  img {
+    width: 2.9rem;
+    height: 2.9rem;
+    border-radius: 100%;
+  }
+}
+
+main {
+  margin: 0 auto;
+  max-width: 44rem;
+  padding: 1rem;
+}
+
+footer {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.card {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.card__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-indent: -9999px;
+  z-index: 1;
+}
+
+body.default main article header {
+  display: flex;
+  flex-direction: column;
+
+  h1 {
+    order: 1;
+  }
+
+  p {
+    margin: 0.2rem 0;
+    font-size: 1rem;
+    color: $body-foreground-alt;
+  }
+}
+
+body.resume {
+  main {
+    max-width: 56rem;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  li {
+    list-style-type: none;
+    margin: 0.2rem 0;
+  }
+
+  article > header {
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 1.8rem;
+    background-origin: border-box;
+    display: block;
+    padding-left: 2.6rem;
+  }
+
+  article {
+    header p {
+      font-size: 0.9rem;
+    }
+
+    header, section {
+      h3, h4 {
+        margin: 0;
+      }
+
+      time {
+        font-size: 0.9rem;
+      }
+
+      p, time {
+        color: $body-foreground-alt;
+        display: block;
+      }
+    }
+
+    &.hackerman > header {
+      background-image: url('/assets/hackerman.png');
+    }
+
+    &.spotify > header {
+      background-image: url('/assets/spotify.png');
+    }
+
+    &.gomorron > header {
+      background-image: url('/assets/gomorron.png');
+    }
+
+    &.atg > header {
+      background-image: url('/assets/atg.png');
+    }
+
+    &.brightn > header {
+      background-image: url('/assets/brightn.png');
+    }
+
+    &.urb-it > header {
+      background-image: url('/assets/urb-it.png');
+    }
+
+    &.adeprimo > header  {
+      background-image: url('/assets/adeprimo.png');
+    }
+
+    &.ibitec > header  {
+      background-image: url('/assets/ibitec.png');
+    }
+
+    &.roxen > header  {
+      background-image: url('/assets/roxen.png');
+    }
+
+    &.exsitec > header  {
+      background-image: url('/assets/exsitec.png');
+    }
+
+    &.ukd > header  {
+      background-image: url('/assets/experience-placeholder.png');
+    }
+
+    &.utfors > header  {
+      background-image: url('/assets/utfors.png');
+    }
+
+    &.umu > header {
+      background-image: url('/assets/umu.png');
+    }
+
+    &.sysarb > header {
+      background-image: url('/assets/sysarb.png');
+    }
+
+    &.ericsson > header {
+      background-image: url('/assets/ericsson.png');
+    }
+
+    &.wolterskluwer > header {
+      background-image: url('/assets/wolterskluwer.png');
+    }
+
+    &.volvocars > header {
+      background-image: url('/assets/volvocars.png');
+    }
+  }
+
+  address .contact, .download {
+    color: $body-foreground;
+    padding-left: 1.1rem;
+    font-size: 0.9rem;
+
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 0.7rem;
+    background-origin: border-box;
+  }
+
+  .download {
+    padding: 1rem;
+    background-image: url('/assets/download.png');
+  }
+
+  address .email {
+    background-image: url('/assets/email.png');
+  }
+
+  address .phone {
+    background-image: url('/assets/phone.png');
+  }
+}
+
+body.resume {
+  > header, > footer {
+    display: none;
+  }
+}
+
+@media print {
+  html {
+    font-size: 92%;
+  }
+
+  * {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  hr, .download {
+    display: none;
+  }
+
+  main {
+    max-width: 100%;
+  }
+
+  .about-details {
+    page-break-before: always;
+  }
+
+  .grid-container {
+    page-break-inside: avoid;
+  }
+}
+
+.details {
+  margin-bottom: 1rem;
+}
+
+.grid-container {
+  display: grid;
+  gap: 0 1rem;
+  grid-template-columns: 1fr 1.618fr;
+}
+
+.experience-details, .entrepreneurship-details {
+  .grid-container {
+    border-radius: 0.1rem;
+    padding: 1rem;
+  }
+
+  .grid-container:nth-child(even) {
+    background: #f1f1f1;
+  }
+}
+
+.grid-item > div {
+  margin-bottom: 1.5rem;
+}
+
+@media only screen and (max-width: 800px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
