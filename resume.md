@@ -237,14 +237,6 @@ class: resume
             </header>
           </article>
         </li>
-        <li>
-          <article class="experience utfors">
-            <header>
-              <h3>Utfors, NOC Technician</h3>
-              <time>May 2000 - Aug 2002</time>
-            </header>
-          </article>
-        </li>
       </ul>
     </div>
   </div>
