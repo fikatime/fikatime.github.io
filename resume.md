@@ -17,9 +17,13 @@ class: resume
   </div>
   <div class="grid-item">
     <div class="summary">
-      <h2>Professional aspirations</h2>
+      <h2>Highlights</h2>
       <p>
-        Aspirations here
+        Since 2022 transitioned into academia
+        20 years in software development across startups, hypergrowth, and traditional companies, both large and small.
+        18 years in leadership roles, from board and executive positions ot leading larger organizations, to first-line management.
+        15 years in Silicon Valley, primarily in enterprise software, followed by 9 years in Sweden, focusing on consumer products.
+        Also experienced in leadership roles beyond engineering, including CTO, product strategy, advisory, and board positions
       </p>
     </div>
   </div>
