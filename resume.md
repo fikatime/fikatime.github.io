@@ -11,7 +11,7 @@ class: resume
       <p>Product & Technology Leadership</p>
       <address>
         <a class="contact email" href="mailto:victoria.vallstrom@gmail.com">victoria.vallstrom@gmail.com</a><br>
-        <a class="contact phone" href="tel:+4670123456">+46(0)70-123-456</a>
+        <a class="contact phone" href="tel:+46702175879">+46(0)70-217-5879</a>
       </address>
     </div>
   </div>
