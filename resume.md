@@ -58,7 +58,6 @@ class: resume
             </header>
           </article>
         </li>
-        </li>
         <li>
           <article class="experience antler">
             <header>
@@ -89,7 +88,7 @@ class: resume
             </header>
           </article>
         </li>
-         <li>
+        <li>
           <article class="experience sj">
             <header>
               <h3>B.S. Computer Science (2003)</h3>
@@ -97,7 +96,7 @@ class: resume
             </header>
           </article>
         </li>
-         <li>
+        <li>
           <article class="experience su">
             <header>
               <h3>Högskoleexamen History of Ideas (1997)</h3>
