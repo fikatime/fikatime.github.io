@@ -19,7 +19,7 @@ class: resume
     <div class="summary">
       <h2>Highlights</h2>
       <p>
-        Since 2022 transitioned into academia
+        Since 2022, I have transitioned into academia
         20 years in software development across startups, hypergrowth, and traditional companies, both large and small.
         18 years in leadership roles, from board and executive positions ot leading larger organizations, to first-line management.
         15 years in Silicon Valley, primarily in enterprise software, followed by 9 years in Sweden, focusing on consumer products.
@@ -28,7 +28,6 @@ class: resume
     </div>
   </div>
 </div>
-
 <div class="grid-container">
   <div class="grid-item">
     <div class="boardwork">
@@ -106,7 +105,6 @@ class: resume
         </li>
       </ul>
     </div>
-
     <div class="fun-facts">
       <h2>Fun facts</h2>
       <ul>
