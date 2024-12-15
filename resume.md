@@ -156,10 +156,11 @@ class: resume
           <article class="experience industry">
             <header>
               <h2>Tech Industry experience(2001-2022)</h2>
-              <time>Mar 2023 - Sep 2023</time>
+              <time></time>
             </header>
           </article>
         </li>
+</div>
 <hr/>
 
 <div class="details about-details">
