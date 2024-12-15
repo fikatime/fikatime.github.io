@@ -112,15 +112,15 @@ class: resume
       <ul>
         <li>
           <h3>TIBCO Professional Women´s Cycling Team</h3>
-          <p>Cyclist for Palo Alto-based (CA, US) elite team 2006-2009, incl. two World Cup races.</p>
+          <time>Cyclist for Palo Alto-based (CA, US) elite team 2006-2009, incl. two World Cup races.</time>
         </li>
         <li>
           <h3>Outdoor and trails</h3>
-          <p>A passion for the outdoors and spending a lot of time trail running, skiing, hiking, etc.</p>
+          <time>A passion for the outdoors and spending a lot of time trail running, skiing, hiking, etc.</time>
         </li>
         <li>
           <h3>Non-fiction book nerd</h3>
-          <p> I Love to understand how we humans work, and I  spend a lot of my spare time reading on this topic.</p>
+          <time>I Love to understand how we humans work, and I  spend a lot of my spare time reading on this topic.</time>
         </li>
       </ul>
     </div>
