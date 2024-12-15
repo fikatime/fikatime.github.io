@@ -153,9 +153,9 @@ class: resume
           </article>
         </li>
         <li>
-          <article class="experience wolterskluwer">
+          <article class="experience industry">
             <header>
-              <h3>Wolters Kluwer, Architect (contract)</h3>
+              <h2>Tech Industry experience(2001-2022)</h2>
               <time>Mar 2023 - Sep 2023</time>
             </header>
           </article>
