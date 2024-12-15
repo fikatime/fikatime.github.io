@@ -160,6 +160,7 @@ class: resume
             </header>
           </article>
         </li>
+    </ul>
 </div>
 <hr/>
 
