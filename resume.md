@@ -140,22 +140,22 @@ class: resume
               <time>2024 - present</time>
                <header>
               <h3>Research Assistant, The Department of Sociology and Work Science</h3>
-              <time>June 2024 - Oct 2024 </time>
+              <time>June 2024 - Oct 2024</time>
             </header>
                <header>
               <h3>Research Assistant Intern, The Department of Sociology and Work Science</h3>
-              <time>Feb 2024 - June 2024 </time>
+              <time>Feb 2024 - June 2024</time>
             </header>
                 <header>
               <h3>B.S Sociology</h3>
-              <time>Sept 2022 - Jan 2024 </time>
+              <time>Sept 2022 - Jan 2024</time>
             </header>
           </article>
         </li>
         <li>
           <article class="experience industry">
             <header>
-              <h2>Tech Industry experience(2001-2022)</h2>
+              <h2>Tech Industry experience (2001-2022)</h2>
               <time></time>
             </header>
           </article>
