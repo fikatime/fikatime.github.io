@@ -82,10 +82,26 @@ class: resume
       <h2>Education</h2>
       <ul>
         <li>
-          <article class="experience umu">
+          <article class="experience gu">
             <header>
-              <h3>Master of Science, Computing Science</h3>
-              <time>Umeå University, 1999 - 2004</time>
+              <h3>B.S. Sociology (2024)</h3>
+              <time>Gothenburg University, Sweden</time>
+            </header>
+          </article>
+        </li>
+         <li>
+          <article class="experience sj">
+            <header>
+              <h3>B.S. Computer Science (2003)</h3>
+              <time>San Jose State University, CA, USA</time>
+            </header>
+          </article>
+        </li>
+         <li>
+          <article class="experience su">
+            <header>
+              <h3>Högskoleexamen History of Ideas (1997)</h3>
+              <time>Stockholm University, Sweden</time>
             </header>
           </article>
         </li>
@@ -96,16 +112,16 @@ class: resume
       <h2>Fun facts</h2>
       <ul>
         <li>
-          <h3>Outdoor aficionado</h3>
-          <p>Happiest outside, I spend my free time running, skiing and mountainbiking.</p>
+          <h3>TIBCO Professional Women´s Cycling Team</h3>
+          <p>Cyclist for Palo Alto-based (CA, US) elite team 2006-2009, incl. two World Cup races.</p>
         </li>
         <li>
-          <h3>Non-fiction book worm</h3>
-          <p>Love to read and learn; science, philosophy, psychology, medicine, arts, economics etc.</p>
+          <h3>Outdoor and trails</h3>
+          <p>A passion for the outdoors and spending a lot of time trail running, skiing, hiking, etc.</p>
         </li>
         <li>
-          <h3>Beer brewer</h3>
-          <p>Hoppy NEIPAs are my favorite.</p>
+          <h3>Non-fiction book nerd</h3>
+          <p> I Love to understand how we humans work, and I  spend a lot of my spare time reading on this topic.</p>
         </li>
       </ul>
     </div>
