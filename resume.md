@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Victoria Vallström</h1>
-      <p>Product & Technology Leadership</p>
+      <p>Tech Professional Turned Academic</p>
       <address>
         <a class="contact email" href="mailto:victoria.vallstrom@gmail.com">victoria.vallstrom@gmail.com</a><br>
         <a class="contact phone" href="tel:+46702175879">+46(0)70-217-5879</a>
