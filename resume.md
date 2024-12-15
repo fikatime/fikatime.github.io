@@ -139,11 +139,11 @@ class: resume
               <h3>Masters Program Sociolgy</h3>
               <time>2024 - present</time>
                <header>
-              <h3>Research Assistant, The Department of Sociology and Work Science</h3>
+              <h3>Research Assistant, Department of Sociology & Work Science</h3>
               <time>June 2024 - Oct 2024</time>
             </header>
                <header>
-              <h3>Research Assistant Intern, The Department of Sociology and Work Science</h3>
+              <h3>Research Assistant Intern, Department of Sociology & Work Science</h3>
               <time>Feb 2024 - June 2024</time>
             </header>
                 <header>
