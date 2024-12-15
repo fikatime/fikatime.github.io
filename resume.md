@@ -32,29 +32,46 @@ class: resume
 <div class="grid-container">
   <div class="grid-item">
     <div class="boardwork">
-      <h2>Entrepreneurship</h2>
+      <h2>Boardwork & Advicing</h2>
       <ul>
         <li>
-          <article class="experience hackerman">
+          <article class="experience yomi">
             <header>
-              <h3>Hackerman AB, Founder</h3>
-              <time>Dec 2016 - Present</time>
+              <h3>YomiLabs AB, Co-Founder</h3>
+              <time>2022 - 2024</time>
             </header>
           </article>
         </li>
         <li>
-          <article class="experience gomorron">
+          <article class="experience lunovi">
             <header>
-              <h3>Gomorron Östersund, Co-founder & partner</h3>
-              <time>Jan 2017 - Nov 2020</time>
+              <h3>Lunovi AB - Founder</h3>
+              <time>2018 - 2024</time>
             </header>
           </article>
         </li>
         <li>
-          <article class="experience brightn">
+          <article class="experience interflora">
             <header>
-              <h3>Brightn AB, Co-founder & CTO</h3>
-              <time>Jun 2014 - Apr 2019</time>
+              <h3>Interflora AB - Boardmemner</h3>
+              <time>2018 - 2023</time>
+            </header>
+          </article>
+        </li>
+        </li>
+        <li>
+          <article class="experience antler">
+            <header>
+              <h3>Antler, Venture Partner & Advisor</h3>
+              <time>2018 - 2019</time>
+            </header>
+          </article>
+        </li>
+        <li>
+          <article class="experience tractor">
+            <header>
+              <h3>Hello Tractor, Boardmember</h3>
+              <time>2018 - 2019</time>
             </header>
           </article>
         </li>
